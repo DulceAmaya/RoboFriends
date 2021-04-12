@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid&display=swap');
+
+h1{
+    font-family: 'Londrina Solid', cursive;
+    color: #3ed6ff;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
